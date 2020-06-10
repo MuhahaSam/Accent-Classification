@@ -1,0 +1,4 @@
+this is the graduation project of student 
+Samuel Kim from MSTU of Bauman.
+In This repositories will be the main components of
+creating accent recognitions system. Small details were omitted
